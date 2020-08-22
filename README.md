@@ -1,3 +1,8 @@
+<p align="center">
+  <img width="25%" src="https://"
+</p>
+
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on [dahliaos grub](https://github.com/HexaOneOfficial/dahliaos). 
