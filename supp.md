@@ -6,6 +6,7 @@
     <b>Supported Hardware</b> 
     </h2>
 <br />
+
 - **dahlia os-fuchsia supported:** can runs dahlia-os fuchia builds.
 - **dahlia os-linux supported:** can run dahlia-os linux builds without the grub boorloader.
 - **dahlia os-linux-grub supported:** can run dahlia-os linux builds but only with the grub bootloader.
