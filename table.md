@@ -14,4 +14,4 @@
     <td>February 1998</td>
     <td style="text-align:center">112,172</td>
   </tr>
-</table>
+<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
