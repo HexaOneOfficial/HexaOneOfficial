@@ -1,17 +1,22 @@
-<table style="border:1px solid black;margin-left:auto;margin-right:auto;">
+ <table class="center">
   <tr>
-    <td><b>HITS</b></td>
-    <td><b>MONTH</b></td>
-    <td><b>TOTAL INCREASE</b></td>
+    <th>Firstname</th>
+    <th>Lastname</th>
+    <th>Age</th>
   </tr>
   <tr>
-    <td>324,497</td>
-    <td>January 1998 </td>
-    <td style="text-align:center">-</td>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
   </tr>
-    <tr>
-    <td>436,699</td>
-    <td>February 1998</td>
-    <td style="text-align:center">112,172</td>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
   </tr>
-</table>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+</table> 
