@@ -6,9 +6,17 @@
 
 | Device        | builds        | documentation  |
 | ------------- |:-------------:| --------------:|
-| Switch Alpha 12| fuchsia | $1600          |
+| Switch Alpha 12| fuchsia | [Documentation](https://fuchsia.dev/docs/development/hardware/acer12.md)          |
 | TM p645s      | linux-grub      |[Documentation](https://github.com/dahlia-os/documentation/blob/master/assets/hardware/Acer/TravelMate/P/645-S/Acer-TravelMate-P645-S-documentation.md)|
-| zebra stripes | are neat      |    $1          |
+
+<h4 align="center">
+    <b>Google</b> 
+    </h4>
+<br />
+
+| Device        | builds        | documentation  |
+| ------------- |:-------------:| --------------:|
+| Pixelbook| fuchsia | [Documentation](https://fuchsia.dev/docs/development/hardware/pixelbook.md)          |
 
 
 
