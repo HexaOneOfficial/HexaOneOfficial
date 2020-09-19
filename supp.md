@@ -1,9 +1,13 @@
-| Acer                                           |
-| ------------- |:-------------:| --------------:|
+
+<h4 align="center">
+    <b>Acer</b> 
+    </h4>
+<br />
+
 | Device        | builds        | documentation  |
 | ------------- |:-------------:| --------------:|
 | Switch Alpha 12| right-aligned | $1600          |
-| col 2 is      | centered      |   $12          |
+| TM p645s      | centered      |   $12          |
 | zebra stripes | are neat      |    $1          |
 
 
