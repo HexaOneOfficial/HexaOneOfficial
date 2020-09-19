@@ -14,6 +14,7 @@
     </h4>
 <br />
 
+| Devicebuildsdocumentation  |
 | Device        | builds        | documentation  |
 | ------------- |:-------------:| --------------:|
 | Pixelbook| fuchsia | [Documentation](https://fuchsia.dev/docs/development/hardware/pixelbook.md)          |
