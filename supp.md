@@ -1,11 +1,13 @@
-<p align="center">
-  <img width="25%" src="https://github.com/dahlia-os/documentation/blob/master/assets/images/logo/dahlialogo.png"
-</p>
+| Acer                                           |
+| ------------- |:-------------:| --------------:|
+| Device        | builds        | documentation  |
+| ------------- |:-------------:| --------------:|
+| Switch Alpha 12| right-aligned | $1600          |
+| col 2 is      | centered      |   $12          |
+| zebra stripes | are neat      |    $1          |
 
-<h2 align="center">
-    <b>Supported Hardware</b> 
-    </h2>
-<br />
+
+
 
 - **dahlia os-fuchsia supported:** can run dahlia-os fuchia builds.
 - **dahlia os-linux supported:** can run dahlia-os linux builds without the grub boorloader.
