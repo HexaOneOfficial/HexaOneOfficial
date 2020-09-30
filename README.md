@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-- the person who is good at hacking stuff and fix REAMDE.md
+- the person who is good at hacking stuff and fixes README's
 
 list of my top 2 projects
 
