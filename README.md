@@ -1,11 +1,13 @@
 <p align="center">
-  <img width="25%" src="./logo/2000/logo%20groove%20red.png"
+  <img width="25%" src="./logo/custom/hexa.png"
 </p>
 
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [dahliaos grub](https://github.com/HexaOneOfficial/dahliaos). 
+- the person who is good at hacking stuff and fix REAMDE.md
 
-- ❓ what is dahliaos grub: dahliaos grub is a fork of [dahliaos](https://github.com/dahlia-os) it provides a bootable image for x86 devices with the grub bootloader. 
+list of my top 2 projects
 
+[ubuntumainline](https://github.com/HexaOneOfficial/ubuntumainline)
+[dahlia-os/documentation](https://github.com/dahlia-os/documentation)
