@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="25%" src="https://github.com/HexaOneOfficial/HexaOneOfficial/blob/master/logo/2000/logo%20groove%20red.png"
+  <img width="25%" src="./logo/2000/logo%20groove%20red.png"
 </p>
 
 
