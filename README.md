@@ -9,5 +9,5 @@
 
 list of my top 2 projects
 
-[ubuntumainline](https://github.com/HexaOneOfficial/ubuntumainline)
-[dahlia-os/documentation](https://github.com/dahlia-os/documentation)
+- [ubuntumainline](https://github.com/HexaOneOfficial/ubuntumainline)
+- [dahlia-os/documentation](https://github.com/dahlia-os/documentation)
