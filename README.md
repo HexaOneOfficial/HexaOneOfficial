@@ -7,7 +7,7 @@
 
 - the person who is good at hacking stuff and fixes README's
 
-list of my top 2 projects
+list of top 2 projects
 
 - [ubuntumainline](https://github.com/HexaOneOfficial/ubuntumainline)
 - [dahlia-os/documentation](https://github.com/dahlia-os/documentation)
