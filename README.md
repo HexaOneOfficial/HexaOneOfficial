@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="25%" src="./logo/custom/hexa.png"
+  <img width="25%" src="logo/custom/hexanew.svg"
 </p>
 
 
