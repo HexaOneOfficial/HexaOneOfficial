@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="25%" src="logo/custom/hexanew.svg"
+  <img width="25%" src="logo/custom/hexa.png"
 </p>
 <h1 align="center"><center>HexaOneOfficial</center></h1>
 
