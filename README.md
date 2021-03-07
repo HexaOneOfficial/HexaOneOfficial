@@ -3,4 +3,4 @@
 </p>
 <h1 align="center"><center>HexaOneOfficial</center></h1>
 
-### Hi there 👋
+### Welcome! 👋
